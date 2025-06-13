@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "000202002020-pic_32ratio_900x600-900x600-15511.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
